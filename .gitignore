@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+.env
+venv/
+.vscode/
+
+# Data & Models 
+data/
+models/
+*.pkl
+*.h5
+*.csv
+*.xlsx
+*.parquet
+
+# Exception 
+!data/sample_data.csv
