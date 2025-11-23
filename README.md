@@ -56,8 +56,8 @@ pip install -r requirements.txt
 - [x] GitHub Actions (CI/CD) Entegrasyonu
 - [x] Veri setinin incelenmesi
 - [x] Veri temizlenmesi ve görselleştirilmesi.
-- [ ] Temizlenmiş veri ile basit bir "Random Forest" veya "XGBoost" modeli kurmak.
-- [ ] Referans metriklerin (Recall, F1-Score) belirlenmesi.
+- [x] Temizlenmiş ham veri ile basit bir "Random Forest" modeli kurulması
+- [x] Referans metriklerin (Recall, F1-Score) belirlenmesi.
 - [ ] Temel modelin kurulması ve iyileştirme çalışmaları (Feature Engineering).
 - [ ] Hareketli ortalamalar (Rolling Stats) ve gecikmeli değişkenler (Lags) üretme.
 - [ ] Zaman serisi özelliklerini modele kazandırma.
