@@ -46,12 +46,20 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+## Not:
+
+ Bazı yardımcı kod parçaları ve dokümantasyon süreçlerinde  LLM tabanlı araçlardan yararlanılmıştır. Projenin ana geliştirme ve mimari kararları tamamen proje sahibine aittir.
+
 ## TO DO
 
 - [x] GitHub Reposunun ve Klasör Yapısının Oluşturulması
 - [x] GitHub Actions (CI/CD) Entegrasyonu
 - [x] Veri setinin incelenmesi
-- [ ] Veri temizlenmesi ve görselleştirilmesi.
+- [x] Veri temizlenmesi ve görselleştirilmesi.
+- [ ] Temizlenmiş veri ile basit bir "Random Forest" veya "XGBoost" modeli kurmak.
+- [ ] Referans metriklerin (Recall, F1-Score) belirlenmesi.
 - [ ] Temel modelin kurulması ve iyileştirme çalışmaları (Feature Engineering).
+- [ ] Hareketli ortalamalar (Rolling Stats) ve gecikmeli değişkenler (Lags) üretme.
+- [ ] Zaman serisi özelliklerini modele kazandırma.
 - [ ] Modelin API servisine dönüştürülmesi ve Dashboard tasarımı.
 - [ ] Sonuçların raporlanması ve sunum hazırlığı.
