@@ -50,7 +50,8 @@ pip install -r requirements.txt
 
 - [x] GitHub Reposunun ve Klasör Yapısının Oluşturulması
 - [x] GitHub Actions (CI/CD) Entegrasyonu
-- [ ] Veri setinin incelenmesi, temizlenmesi ve görselleştirilmesi.
+- [x] Veri setinin incelenmesi
+- [ ] Veri temizlenmesi ve görselleştirilmesi.
 - [ ] Temel modelin kurulması ve iyileştirme çalışmaları (Feature Engineering).
 - [ ] Modelin API servisine dönüştürülmesi ve Dashboard tasarımı.
 - [ ] Sonuçların raporlanması ve sunum hazırlığı.
