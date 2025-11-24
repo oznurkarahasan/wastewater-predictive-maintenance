@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Not:
 
- Bazı yardımcı kod parçaları ve dokümantasyon süreçlerinde  LLM tabanlı araçlardan yararlanılmıştır. Projenin ana geliştirme ve mimari kararları tamamen proje sahibine aittir.
+Bazı yardımcı kod parçaları ve dokümantasyon süreçlerinde LLM tabanlı araçlardan yararlanılmıştır. Projenin ana geliştirme ve mimari kararları tamamen proje sahibine aittir.
 
 ## TO DO
 
@@ -58,8 +58,9 @@ pip install -r requirements.txt
 - [x] Veri temizlenmesi ve görselleştirilmesi.
 - [x] Temizlenmiş ham veri ile basit bir "Random Forest" modeli kurulması
 - [x] Referans metriklerin (Recall, F1-Score) belirlenmesi.
-- [ ] Temel modelin kurulması ve iyileştirme çalışmaları (Feature Engineering).
-- [ ] Hareketli ortalamalar (Rolling Stats) ve gecikmeli değişkenler (Lags) üretme.
+- [x] Temel modelin kurulması ve iyileştirme çalışmaları (Feature Engineering).
+- [x] Hareketli ortalamalar (Rolling Stats) ve gecikmeli değişkenler (Lags) üretme.
 - [ ] Zaman serisi özelliklerini modele kazandırma.
+- [ ] Random Forest yerine LightGBM veya XGBoost (Gradient Boosting) modellerinin kurulması.
 - [ ] Modelin API servisine dönüştürülmesi ve Dashboard tasarımı.
 - [ ] Sonuçların raporlanması ve sunum hazırlığı.
