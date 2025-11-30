@@ -44,6 +44,9 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Gereksinimleri yükleyin
 pip install -r requirements.txt
+
+# güncelleme sonrası
+pip freeze > requirements.txt
 ```
 
 ## Not:
