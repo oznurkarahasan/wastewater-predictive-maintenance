@@ -65,3 +65,5 @@ Bazı yardımcı kod parçaları ve dokümantasyon süreçlerinde LLM tabanlı a
 - [ ] Modelin API servisine dönüştürülmesi ve Dashboard tasarımı.
 - [ ] Sonuçların raporlanması ve sunum hazırlığı.
 
+1. python -m uvicorn app.api:app --reload
+2. python -m streamlit run app/dashboard.py
