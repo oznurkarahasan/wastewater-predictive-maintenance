@@ -64,3 +64,4 @@ Bazı yardımcı kod parçaları ve dokümantasyon süreçlerinde LLM tabanlı a
 - [ ] Random Forest yerine LightGBM veya XGBoost (Gradient Boosting) modellerinin kurulması.
 - [ ] Modelin API servisine dönüştürülmesi ve Dashboard tasarımı.
 - [ ] Sonuçların raporlanması ve sunum hazırlığı.
+
