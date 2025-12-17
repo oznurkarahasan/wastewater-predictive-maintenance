@@ -1,5 +1,7 @@
 # Atık Su Arıtma Tesislerinde Anomali Tespiti ve Arıza Tahmini (Predictive Maintenance)
 
+[!System](docs/image.png)
+
 ## Proje Özeti
 
 Bu proje, atık su arıtma tesislerinde kullanılan pompaların sensör verilerini analiz ederek olası arızaları önceden tahmin etmeyi (predictive maintenance) ve anomali tespiti yapmayı amaçlar.
