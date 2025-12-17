@@ -1,6 +1,6 @@
-# Atık Su Arıtma Tesislerinde Anomali Tespiti ve Arıza Tahmini (Predictive Maintenance)
+![System](docs/image.png)
 
-[!System](docs/image.png)
+# Atık Su Arıtma Tesislerinde Anomali Tespiti ve Arıza Tahmini (Predictive Maintenance)
 
 ## Proje Özeti
 
